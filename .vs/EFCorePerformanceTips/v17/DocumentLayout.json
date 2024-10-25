@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|solutionrelative:efcoreperformancetips\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4C1E9C-8D19-448B-A7D3-D347AB2872DE}|EFCorePerformanceTips.InfrastructureLayer\\EFCorePerformanceTips.InfrastructureLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.infrastructurelayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4C1E9C-8D19-448B-A7D3-D347AB2872DE}|EFCorePerformanceTips.InfrastructureLayer\\EFCorePerformanceTips.InfrastructureLayer.csproj|solutionrelative:efcoreperformancetips.infrastructurelayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4C1E9C-8D19-448B-A7D3-D347AB2872DE}|EFCorePerformanceTips.InfrastructureLayer\\EFCorePerformanceTips.InfrastructureLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4C1E9C-8D19-448B-A7D3-D347AB2872DE}|EFCorePerformanceTips.InfrastructureLayer\\EFCorePerformanceTips.InfrastructureLayer.csproj|solutionrelative:efcoreperformancetips.infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50781F1C-FE3B-4C42-BE6C-8B346DC0967D}|EFCorePerformanceTips.ApplicationLayer\\EFCorePerformanceTips.ApplicationLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.applicationlayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50781F1C-FE3B-4C42-BE6C-8B346DC0967D}|EFCorePerformanceTips.ApplicationLayer\\EFCorePerformanceTips.ApplicationLayer.csproj|solutionrelative:efcoreperformancetips.applicationlayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.corelayer\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|solutionrelative:efcoreperformancetips.corelayer\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|solutionrelative:efcoreperformancetips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.corelayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|solutionrelative:efcoreperformancetips.corelayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips\\efcoreperformancetips.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{693C307D-A6D6-4051-BBC3-A18194528C01}|EFCorePerformanceTips\\EFCorePerformanceTips.csproj|solutionrelative:efcoreperformancetips\\efcoreperformancetips.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.corelayer\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|solutionrelative:efcoreperformancetips.corelayer\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\efcoreoptimization\\project\\efcoreperformancetips\\efcoreperformancetips.corelayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7FCCBF-232E-49C5-8391-8A4A504084D4}|EFCorePerformanceTips.CoreLayer\\EFCorePerformanceTips.CoreLayer.csproj|solutionrelative:efcoreperformancetips.corelayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\Program.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\Program.cs",
+              "RelativeToolTip": "EFCorePerformanceTips\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:15:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFCorePerformanceTips\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:26:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:26:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:26:00.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.ApplicationLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.ApplicationLayer\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.ApplicationLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.ApplicationLayer\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:25.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:14.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.CoreLayer\\Entities\\Product.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.CoreLayer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:04.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductServices.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.CoreLayer\\Interfaces\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCorePerformanceTips.csproj",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\EFCorePerformanceTips.csproj",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips\\EFCorePerformanceTips.csproj",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips\\EFCorePerformanceTips.csproj",
+              "RelativeToolTip": "EFCorePerformanceTips\\EFCorePerformanceTips.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T08:26:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "EFCorePerformanceTips.CoreLayer\\Entities\\Category.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\EFCoreOptimization\\Project\\EFCorePerformanceTips\\EFCorePerformanceTips.CoreLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "EFCorePerformanceTips.CoreLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:05.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
