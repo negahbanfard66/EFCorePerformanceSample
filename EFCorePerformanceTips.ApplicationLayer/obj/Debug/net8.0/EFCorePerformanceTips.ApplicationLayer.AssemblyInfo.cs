@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCorePerformanceTips.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85fa1b1f29d927c96d8138e6290e77de8ec0ad3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+163f683eea5a43128c3910b9180dadfb58eafea2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCorePerformanceTips.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCorePerformanceTips.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
