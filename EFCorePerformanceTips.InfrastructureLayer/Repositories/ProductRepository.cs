@@ -47,6 +47,20 @@ namespace EFCorePerformanceTips.InfrastructureLayer.Repositories
             await _context.Products.AddAsync(product, cancellationToken);
             await _context.SaveChangesAsync(cancellationToken);
         }
+
+        public async Task<List<Customer>> GetProductsWithCategoriesAsync()
+        {
+            var custoemrs = await _context.Customers.ToListAsync();
+
+            var customersId = custoemrs.Select(a=> a.CustomerId).ToList();
+
+            var orders =  _context.Orders.Where(p=> customersId.Contains(p.CustomerId));
+
+            foreach(var customer in _context.Customers)
+                customer.Orders = orders.Where(o=> o.CustomerId == customer.CustomerId).ToList();
+
+            return custoemrs;
+        }
     }
 
 }

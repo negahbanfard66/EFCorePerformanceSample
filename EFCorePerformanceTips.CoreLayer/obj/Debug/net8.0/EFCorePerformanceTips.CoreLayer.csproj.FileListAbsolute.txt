@@ -9,3 +9,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCore
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips.CoreLayer\obj\Debug\net8.0\refint\EFCorePerformanceTips.CoreLayer.dll
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips.CoreLayer\obj\Debug\net8.0\EFCorePerformanceTips.CoreLayer.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips.CoreLayer\obj\Debug\net8.0\ref\EFCorePerformanceTips.CoreLayer.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips.CoreLayer\obj\Debug\net8.0\EFCorePerformanceTips.CoreLayer.sourcelink.json

@@ -87,3 +87,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCore
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips\obj\Debug\net8.0\EFCorePerformanceTips.MvcApplicationPartsAssemblyInfo.cs
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
 D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\EFCoreOptimization\Project\EFCorePerformanceTips\EFCorePerformanceTips\obj\Debug\net8.0\EFCorePerformanceTips.sourcelink.json

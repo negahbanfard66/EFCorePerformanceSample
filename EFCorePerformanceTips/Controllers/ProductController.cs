@@ -1,14 +1,18 @@
 ﻿using EFCorePerformanceTips.ApplicationLayer.Services;
 using EFCorePerformanceTips.CoreLayer.Entities;
+using EFCorePerformanceTips.CoreLayer.Interfaces;
+using EFCorePerformanceTips.InfrastructureLayer.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System;
 
 [ApiController]
 [Route("api/[controller]")]
 public class ProductController : ControllerBase
 {
-    private readonly ProductService _productService;
+    private readonly IProductService _productService;
 
-    public ProductController(ProductService productService)
+    public ProductController(IProductService productService)
     {
         _productService = productService;
     }

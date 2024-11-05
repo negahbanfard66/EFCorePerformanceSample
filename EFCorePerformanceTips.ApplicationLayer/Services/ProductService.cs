@@ -3,7 +3,7 @@ using EFCorePerformanceTips.CoreLayer.Interfaces;
 
 namespace EFCorePerformanceTips.ApplicationLayer.Services
 {
-    public class ProductService : IProductServices
+    public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
 

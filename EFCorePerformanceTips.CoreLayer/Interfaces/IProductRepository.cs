@@ -8,5 +8,6 @@ namespace EFCorePerformanceTips.CoreLayer.Interfaces
         Task<Product> GetProductByIdAsync(int id, CancellationToken cancellationToken);
         Task AddProductAsync(Product product, CancellationToken cancellationToken);
         Task UpdateProductPriceAsync(int categoryId, decimal increaseAmount, CancellationToken cancellationToken);
+        Task<List<Customer>> GetProductsWithCategoriesAsync();
     }
 }

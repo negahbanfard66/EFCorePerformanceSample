@@ -2,7 +2,7 @@
 
 namespace EFCorePerformanceTips.CoreLayer.Interfaces
 {
-    public interface IProductServices
+    public interface IProductService
     {
         Task<List<Product>> GetPaginatedProductsAsync(int pageNumber, int pageSize, CancellationToken cancellationToken);
         Task<Product> GetProductByIdAsync(int productId, CancellationToken cancellationToken);
